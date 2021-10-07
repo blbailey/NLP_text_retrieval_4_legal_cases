@@ -1,4 +1,4 @@
-# NLP_legal_cases
+# NLP_text_retrieval
 A text retrieval algorithm is developed based on CNN structure for legal case query (in Chinese).
 # CNN (DL for NLP)
 A CNN based on algorithm is designed to retrieve the most semantically similar case for each query legal case.
